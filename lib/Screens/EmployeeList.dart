@@ -98,8 +98,8 @@ class HomeScreenState extends State<HomeScreen> {
         toastLength: Toast.LENGTH_SHORT,
         gravity: ToastGravity.BOTTOM,
         timeInSecForIos: 1,
-        bgcolor: "#008ECC",
-        textcolor: '#ffffff'
+        backgroundColor:Colors.blue,
+        textColor: Colors.white
     );
   }
 
